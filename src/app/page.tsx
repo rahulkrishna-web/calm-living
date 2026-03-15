@@ -1,65 +1,104 @@
-import Image from "next/image";
+import Link from 'next/link'
+import { BlogShell } from '@/components/blog-shell'
+import { getSortedPostsData } from '@/lib/markdown'
+import { Button } from '@/components/ui/button'
 
-export default function Home() {
+export default function BlogLandingPage() {
+  const posts = getSortedPostsData()
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+    <BlogShell
+      description="Essays on rituals, clarity, and creating quieter systems for everyday life."
+      posts={posts}
+      title="Calm Living"
+    >
+      <main className="mx-auto flex w-full max-w-6xl flex-1 flex-col gap-10 px-4 py-8 lg:px-6 lg:py-10">
+        <section className="grid gap-4 rounded-3xl border bg-card/80 p-6 shadow-sm lg:grid-cols-[minmax(0,1fr)_240px] lg:p-8">
+          <div className="space-y-5">
+            <p className="text-sm font-medium uppercase tracking-[0.24em] text-muted-foreground">
+              New journal format
+            </p>
+            <div className="space-y-3">
+              <h1 className="max-w-2xl font-serif text-4xl font-semibold tracking-tight text-balance sm:text-5xl">
+                A slower editorial layout built around reading, not distraction.
+              </h1>
+              <p className="max-w-2xl text-base leading-8 text-muted-foreground sm:text-lg">
+                The blog now uses a sidebar-first structure for navigating posts,
+                topics, and the latest notes without leaving the reading flow.
+              </p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <Button asChild>
+                <Link href={posts[0] ? `/blog/${posts[0].slug}` : '/'}>
+                  Read the latest post
+                </Link>
+              </Button>
+              <Button asChild variant="outline">
+                <Link href="#latest">Browse all essays</Link>
+              </Button>
+            </div>
+          </div>
+          <div className="grid gap-3 rounded-2xl border bg-muted/40 p-4">
+            <div className="rounded-2xl bg-background p-4">
+              <p className="text-sm text-muted-foreground">Posts published</p>
+              <p className="mt-2 text-3xl font-semibold">{posts.length}</p>
+            </div>
+            <div className="rounded-2xl bg-background p-4">
+              <p className="text-sm text-muted-foreground">Current cadence</p>
+              <p className="mt-2 text-lg font-medium">Weekly long-form essays</p>
+            </div>
+          </div>
+        </section>
+
+        <section id="latest" className="space-y-4">
+          <div className="flex items-end justify-between gap-4">
+            <div>
+              <h2 className="text-2xl font-semibold tracking-tight">Latest essays</h2>
+              <p className="text-sm text-muted-foreground">
+                Open a post from the sidebar or continue from the list below.
+              </p>
+            </div>
+          </div>
+          <div className="grid gap-4">
+            {posts.map((post) => (
+              <article
+                key={post.slug}
+                className="group relative rounded-3xl border bg-card/80 p-6 shadow-sm transition-colors hover:bg-secondary/70"
+              >
+                <div className="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
+                  <div className="space-y-3">
+                    <time className="text-xs font-medium uppercase tracking-[0.22em] text-muted-foreground">
+                      {new Date(post.date).toLocaleDateString('en-US', {
+                        month: 'long',
+                        day: 'numeric',
+                        year: 'numeric',
+                      })}
+                    </time>
+                    <div>
+                      <h3 className="font-serif text-2xl font-semibold tracking-tight sm:text-3xl">
+                        <Link href={`/blog/${post.slug}`}>
+                          <span className="absolute inset-0" />
+                          {post.title}
+                        </Link>
+                      </h3>
+                      <p className="mt-2 max-w-2xl text-base leading-8 text-muted-foreground">
+                        {post.excerpt}
+                      </p>
+                    </div>
+                  </div>
+                  <Button
+                    asChild
+                    variant="ghost"
+                    className="relative z-10 w-fit px-0 text-sm"
+                  >
+                    <Link href={`/blog/${post.slug}`}>Open essay</Link>
+                  </Button>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
       </main>
-    </div>
-  );
+    </BlogShell>
+  )
 }
