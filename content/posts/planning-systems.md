@@ -39,7 +39,7 @@ Use the weekly preview to bridge the gap between your long-term goals and your d
 
 ## The Daily Reset and the Next Day's Plan
 
-To maintain your system and your peace, incorporate a "Daily Reset" into your schedule. As we have explored in our Night Reset guide, this is the ritual of concluding the day by returning your system to its baseline.
+To maintain your system and your peace, incorporate a "Daily Reset" into your schedule. As we have explored in our [Night Reset guide](/blog/night-reset), this is the ritual of concluding the day by returning your system to its baseline.
 
 Review the tasks you accomplished and decide what to do with any remaining ones. reschedule them, delegate them, or simply decide they are no longer necessary and let them go. Then, and most importantly, create your plan for the next day. Identify your primary task and schedule your most demanding deep work for your peak energy hours. This ten-minute practice is the final "loop-closing" session for your mind. It ensures that when you close your system for the night, your brain has full permission to rest. You wake up the next morning not asking "what do I need to do?" but instead saying "this is how I will spend my time." The daily reset is the ultimate catalyst for a focused and peaceful morning.
 

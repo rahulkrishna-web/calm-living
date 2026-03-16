@@ -9,7 +9,7 @@ tags: ["lighting", "ambience", "interior-design", "wellness"]
 
 # Lighting & Ambience
 
-Lighting is one of the most powerful tools in interior design, yet it is often the most overlooked. It has a direct impact on our mood, our energy levels, and our overall sense of wellbeing. A well lit home is not just about visibility. It is about creating an atmosphere that supports your daily rituals and helps you transition through the different phases of your day. This guide explores the principles of layered lighting and how to use it to create a warm and restorative mood in every room.
+Lighting is one of the most powerful tools in interior design, yet it is often the most overlooked. It has a direct impact on our mood, our energy levels, and our overall sense of wellbeing. A well lit home is not just about visibility. It is about creating an atmosphere that supports your daily rituals and helps you transition through the different phases of your day. This guide explores the principles of layered lighting and how to use it to create a warm and restorative mood in every room, specifically through [candle atmosphere](/blog/candle-atmosphere) and [seasonal decor](/blog/seasonal-decor).
 
 In a calm home, the lighting should be as dynamic as the world outside. It should follow the natural cycle of the sun, providing brightness and energy during the day and soft, warm comfort in the evening. By understanding how to manipulate light, you can transform the feel of your home with the flip of a switch. You can create spaces that feel open and invigorating, or intimate and safe.
 

@@ -9,7 +9,7 @@ tags: ["minimalism", "interior-design", "organization", "intentionality"]
 
 # Minimal Interiors
 
-Minimalism is often misunderstood as a trend for empty, sterile, and cold spaces. However, true minimalism is deeply personal and warm. It is about removing the excess so that the things that truly matter can shine. In a calm home, a minimalist interior serves as a clear canvas for local living. It reduces visual noise and creates a sense of openness and airiness. This guide explores the philosophy of warm minimalism and how to apply it to your own space to create a home that feels profoundly peaceful.
+Minimalism is often misunderstood as a trend for empty, sterile, and cold spaces. However, true minimalism is deeply personal and warm. It is about removing the excess so that the things that truly matter can shine. In a calm home, a minimalist interior serves as a clear canvas for local living. It reduces visual noise and creates a sense of openness and airiness. This guide explores the philosophy of warm minimalism and how to apply it to your own space to create a home that feels profoundly peaceful, building on our [cozy home design](/blog/cozy-home-design) and [decluttering](/blog/decluttering) guides.
 
 The goal of a minimal interior is to support a quiet life. When we are not overwhelmed by our belongings, we have more space for our thoughts, our rituals, and our relationships. Minimalism is a powerful tool for intentionality. It requires us to make careful choices about what we bring into our homes and how we organize our environment. It is about finding beauty in simplicity and value in negative space.
 

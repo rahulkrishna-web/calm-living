@@ -33,7 +33,7 @@ Invest in a beautiful teapot and a fine-mesh strainer. Choose items that reflect
 
 ## Designing the Atmosphere of the Brew
 
-A tea ritual is most effective when practiced in a calm and beautiful environment. Before you begin to brew, take a moment to reset your surroundings. Clear your surfaces, lower the lights, and perhaps light a single candle. If it is a rainy day, position yourself near a window so you can watch the rain while you wait for your tea to steep.
+A tea ritual is most effective when practiced in a calm and beautiful environment. Before you begin to brew, take a moment to reset your surroundings. Clear your surfaces, lower the lights, and perhaps light a single candle. As we explored in our [rainy day living guide](/blog/rainy-day-living), if it is a rainy day, position yourself near a window so you can watch the rain while you wait for your tea to steep. This is a beautiful part of our [evening rituals](/blog/evening-rituals).
 
 Avoid all digital distractions during your tea ritual. Turn off your phone and your computer. Allow the quiet of the room to be filled only by the sounds of the brewing process. This atmosphere of stillness creates a sanctuary where your mind can finally rest. The environment is the "container" for the ritual. by making it beautiful and quiet, you make it much easier to enter a state of deep focus and peace. The brew is the center of the experience, but the atmosphere is what makes it a ritual.
 

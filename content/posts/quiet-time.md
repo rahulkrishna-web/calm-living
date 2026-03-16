@@ -11,7 +11,7 @@ tags: ["silence", "mindfulness", "reflection", "wellness", "slow-living"]
 
 We live in a world that is constant. We are surrounded by a continuous stream of background noise, both literal and metaphorical. From the hum of the city to the infinite scroll of our digital devices, our attention is always being pulled outward. In this environment, quiet time is not a luxury. it is a necessity for our mental and emotional health. Quiet time is a period of stillness where we deliberately disconnect from external inputs and reconnect with our own internal state. It is a space where our minds can finally settle and our true thoughts can emerge.
 
-Quiet time is the ultimate act of local living. it is about honoring the immediate present and the silence within ourselves. When we carve out time for quiet, we are giving ourselves the space to process our experiences and to find clarity. We are recognizing that we cannot always be in a state of output. we must also have periods of input and reflection. This essay explore the profound power of quiet and why it is the heart of a calm life.
+Quiet time is the ultimate act of local living. it is about honoring the immediate present and the silence within ourselves. When we carve out time for quiet, we are giving ourselves the space to process our experiences and to find clarity. We are recognizing that we cannot always be in a state of output. we must also have periods of input and reflection. This essay explores the profound power of quiet and why it is the heart of a calm life, a central theme in our [morning rituals](/blog/morning-rituals) and [digital detox](/blog/digital-detox) guides.
 
 ## The Difference Between Silence and Quiet
 

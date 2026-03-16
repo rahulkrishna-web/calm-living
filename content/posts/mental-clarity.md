@@ -11,7 +11,7 @@ tags: ["mental-clarity", "focus", "mindfulness", "wellness", "slow-living"]
 
 We often live our lives through a clouded windshield. Our minds are filled with a constant stream of unfinished tasks, digital noise, and emotional residue from the day. This mental fog makes it difficult to see clearly, to focus deeply, and to make intentional decisions. Mental clarity is the state of having a clear and quiet mind. it is the ability to see things as they really are, without the distortion of our own anxieties and distractions. This guide explores the philosophy of clarity and provides practical strategies for clearing your mental space and maintaining a focused, peaceful internal environment.
 
-Developing mental clarity is a practice of local living. It is about honorsing your immediate experience and removing the unnecessary noise that clutters your attention. When you have mental clarity, you move through your day with a sense of ease and purpose. You are more resilient to stress and more capable of experiencing the small beauties of your life. Clarity is the foundation of a calm home and a meaningful career.
+Developing mental clarity is a practice of local living, often achieved through foundational [mindfulness](/blog/mindfulness) and [breathing practices](/blog/breathing-practices). It is about honorsing your immediate experience and removing the unnecessary noise that clutters your attention. When you have mental clarity, you move through your day with a sense of ease and purpose. You are more resilient to stress and more capable of experiencing the small beauties of your life. Clarity is the foundation of a calm home and a meaningful career.
 
 ## The Architecture of Mental Fog
 

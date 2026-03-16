@@ -9,7 +9,7 @@ tags: ["small-spaces", "organization", "minimalism", "apartment"]
 
 # Small Apartment Living
 
-Living in a small apartment requires a shift in perspective. It is an opportunity to embrace a more intentional and local life. When space is limited, every choice matters. You cannot afford to surround yourself with things that do not serve a purpose or bring you joy. Small apartment living is about finding the balance between functionality and beauty. It is about creating a home that feels open and airy, despite its modest footprint. This guide provides practical strategies for maximizing your space while maintaining a high standard of design and comfort.
+Living in a small apartment requires a shift in perspective. It is an opportunity to embrace a more intentional and local life. When space is limited, every choice matters. You cannot afford to surround yourself with things that do not serve a purpose or bring you joy. Small apartment living is about finding the balance between functionality and beauty. It is about creating a home that feels open and airy, despite its modest footprint. This guide provides practical strategies for maximizing your space while maintaining a high standard of design and comfort, incorporating principles from [balcony spaces](/blog/balcony-spaces) and [workspace design](/blog/workspace-design).
 
 The key to successful small space living is organization and scale. We often try to fit too much into a room, which leads to a sense of chaos and stress. By choosing the right furniture and developing smart storage systems, you can transform a cramped apartment into a sanctuary of calm. This is not about living with nothing. It is about living with exactly what you need.
 

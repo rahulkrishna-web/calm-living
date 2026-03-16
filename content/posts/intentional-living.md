@@ -11,7 +11,7 @@ tags: ["intentional-living", "purpose", "mindfulness", "slow-living"]
 
 Most of us live our lives by default. We follow the paths that have been set for us by our families, our peers, and our culture. We respond to the demands of our schedules and the distractions of our devices without ever questioning if these things align with our own values. Intentional living is the radical choice to live by design. it is about becoming the conscious creator of your own experience. It is a commitment to ensuring that your daily actions, your environment, and your relationships are all in harmony with your deepest sense of purpose.
 
-Intentional living is the ultimate practice of local living. it is about taking full responsibility for the quality of your life here and now. When we live with intention, we stop being passive passengers in our own lives and start being active participants. We find meaning in the small things and clarity in our big decisions. This essay explore the philosophy of intentionality and how to start living with more purpose every single day.
+Intentional living is the ultimate practice of local living. it is about taking full responsibility for the quality of your life here and now. When we live with intention, we stop being passive passengers in our own lives and start being active participants. We find meaning in the small things and clarity in our big decisions. This essay explores the philosophy of intentionality and how to start living with more purpose every single day, as detailed in our [mindfulness](/blog/mindfulness) and [simple living](/blog/simple-living) guides.
 
 ## Defining Your Core Values
 

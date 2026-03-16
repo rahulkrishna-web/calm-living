@@ -9,7 +9,7 @@ tags: ["bedroom", "sleep", "wellness", "comfort"]
 
 # Cozy Bedroom Setup Guide
 
-The bedroom is the most private and important space in your home. It is where you begin and end your day. A well designed bedroom is not just about aesthetics. It is a critical tool for your health and wellbeing. When our sleep environment is optimized for comfort and tranquility, our quality of rest improves. We wake up feeling more grounded and capable of handling the challenges of the day. This comprehensive guide explores how to design a bedroom that supports deep, restorative sleep and serves as a true sanctuary from the world.
+The bedroom is the most private and important space in your home. It is where you begin and end your day. A well designed bedroom is not just about aesthetics. It is a critical tool for your health and wellbeing. When our sleep environment is optimized for comfort and tranquility, our quality of rest improves. We wake up feeling more grounded and capable of handling the challenges of the day. This comprehensive guide explores how to design a bedroom that supports deep, restorative sleep and serves as a true sanctuary from the world. For a deeper dive into design elements, explore our [detailed cozy bedroom guide](/blog/cozy-bedroom-guide).
 
 Creating a cozy bedroom is a process of subtraction and addition. It is about removing the things that cause stress and adding the things that provide comfort. We will look at everything from the choice of mattress and linens to the subtle influence of color and light. The goal is to create a space that feels like a warm embrace. It should be a place where your mind can finally let go of the day and your body can truly rest.
 

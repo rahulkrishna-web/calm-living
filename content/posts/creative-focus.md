@@ -15,7 +15,7 @@ The goal of creative focus is not just to "produce" art or ideas. it is to enjoy
 
 ## The Environment of Possibility
 
-Creativity needs a "container" of safety and stillness. You cannot reach a state of creative focus if your brain is constantly scanning for threats or managing distractions. This is why our design rituals and workspace guides are so important for the creative life.
+Creativity needs a "container" of safety and stillness. You cannot reach a state of creative focus if your brain is constantly scanning for threats or managing distractions. This is why our [home reset rituals](/blog/home-reset-rituals) and [workspace guides](/blog/workspace-design) are so important for the creative life.
 
 Design your creative environment to be a "Space of Possibility." This means it should be clear of clutter, but filled with inspiration. Use natural light, handcrafted ceramic tools, and soft textures to create a sanctuary that stimulates your senses without overwhelming your mind. The state of your physical space is a direct reflection of the state of your mental space. A quiet and beautiful room signals to your brain that it is safe to be vulnerable and to take risks. It is the catalyst for the creative state. By making your environment beautiful and clear, you make it much easier to enter the flow.
 

@@ -23,7 +23,7 @@ These notes create a layer of personal history within the book. years later, whe
 
 To practice the art of reading notes, you must treat your tools as ritual objects. whenever you settle in for a reading session, ensure you have a high-quality pencil and a small notebook nearby. The shift from a passive read to an active, note-taking read is a foundational exercise of intentional living.
 
-Use the margins of the book for short, visceral responses. exclamation points, "Aha!" moments, or brief disagreements. Use your dedicated notebook for more extensive reflections, summaries, and connections to other ideas in your life. This two-tier system allows you to capture both the immediate and the deep. It ensures that your insights are not lost once you close the book. The ritual of the pencil and the notebook transforms reading into a transformative act. It is a source of daily joy and a reminder of the power of focused attention. It is the heart of an inspired home.
+Use the margins of the book for short, visceral responses. exclamation points, "Aha!" moments, or brief disagreements. Use your dedicated notebook for more extensive reflections, summaries, and connections to other ideas in your life, supporting your [reflection](/blog/reflection) and [journaling](/blog/journaling) practices. This two-tier system allows you to capture both the immediate and the deep. It ensures that your insights are not lost once you close the book. The ritual of the pencil and the notebook transforms reading into a transformative act. It is a source of daily joy and a reminder of the power of focused attention. It is the heart of an inspired home.
 
 ## Summary of Mindful Annotation
 

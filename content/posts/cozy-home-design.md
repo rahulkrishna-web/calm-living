@@ -9,7 +9,7 @@ tags: ["home", "design", "cozy", "mindfulness"]
 
 # How to Create a Calm Home Environment
 
-Creating a home that feels warm and welcoming is a thoughtful process. It starts with understanding how we interact with our surroundings. A cozy home is not about filling a room with objects. It is about choosing elements that provide comfort and peace. In our fast paced digital age, our homes must serve as sanctuaries. They are not just places to sleep. They are environments where our minds can rest and our bodies can recover from the day. This guide explores the deep philosophy and practical steps of calm home design.
+Creating a home that feels warm and welcoming is a thoughtful process. It starts with understanding how we interact with our surroundings. A cozy home is not about filling a room with objects. It is about choosing elements that provide comfort and peace. In our fast paced digital age, our homes must serve as sanctuaries. They are not just places to sleep. They are environments where our minds can rest and our bodies can recover from the day. This guide explores the deep philosophy and practical steps of calm home design, building on the principles of [minimal interiors](/blog/minimal-interiors) and [aesthetic organization](/blog/aesthetic-organization).
 
 Living a local life begins within the walls of our house. When we design for calm, we are designing for ourselves. We are acknowledging that our environment directly impacts our internal state. A cluttered room often leads to a cluttered mind. A dark and cold space can make us feel isolated. Conversely, a home filled with soft light and natural textures can lift our mood and steady our breathing. We will look at how to build these capacities into every corner of your living space.
 

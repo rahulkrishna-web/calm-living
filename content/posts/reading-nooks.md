@@ -9,7 +9,7 @@ tags: ["reading", "nook", "interior-design", "books"]
 
 # Reading Nooks
 
-In a world filled with digital distractions, a reading nook is a sanctuary for the mind. It is a dedicated space that signals to your brain that it is time to slow down and focus. A well designed reading nook is one of the most rewarding additions you can make to your home. It does not require a large room. It only needs a comfortable seat, good light, and a sense of quiet. This guide explores the essential components of a reading nook and how to create your own literary escape.
+In a world filled with digital distractions, a reading nook is a sanctuary for the mind. It is a dedicated space that signals to your brain that it is time to slow down and focus. A well designed reading nook is one of the most rewarding additions you can make to your home. It does not require a large room. It only needs a comfortable seat, good light, and a sense of quiet, as described in our [reading corner guide](/blog/reading-corner-guide) and our [lighting and ambience](/blog/lighting-and-ambience) guide. This guide explores the essential components of a reading nook and how to create your own literary escape.
 
 A reading nook is more than just a place to sit. It is a destination for your personal rituals of calm. It encourages the habit of deep reading, which is increasingly rare in our fast paced lives. By carving out this small corner, you are making a commitment to your own intellectual and emotional wellbeing. You are creating a physical boundary between the noise of the world and the peace of a good book.
 

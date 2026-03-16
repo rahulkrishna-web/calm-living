@@ -11,7 +11,7 @@ tags: ["simple-living", "minimalism", "intentionality", "wellness", "slow-living
 
 In a world that constantly encourages us to do more, have more, and be more, simple living is a radical choice. It is a commitment to reducing the complexity and friction of your life so that you can focus on what truly matters. Simple living is not about deprivation or living in a void. It is about abundance. an abundance of time, space, and attention. By removing the excess, we discover the joy of less. We create a home and a lifestyle that feels light, open, and profoundly peaceful. This guide explores the philosophy of simplicity and provides practical steps for simplifying your daily life.
 
-Living a simple life is an ongoing practice of local living. it is about honoring the immediate and the essential over the distant and the trivial. When we simplify our environments and our schedules, we become more present with our own experience. We find contentment in the small things and clarity in our decisions. Simple living is the ultimate foundation for a calm and meaningful existence.
+Living a simple life is an ongoing practice of local living. it is about honoring the immediate and the essential over the distant and the trivial. When we simplify our environments and our schedules, we become more present with our own experience. We find contentment in the small things and clarity in our decisions. Simple living is the ultimate foundation for a calm and meaningful existence, building on our principles of [intentional living](/blog/intentional-living) and [mindful living](/blog/mindful-living).
 
 ## The Philosophy of Essentialism
 

@@ -11,7 +11,7 @@ tags: ["balcony", "outdoor-living", "rituals", "guides", "slow-living"]
 
 In a life of urban living and digital noise, our connection to the natural world is often the first thing to be sacrificed. We spend our days in interior spaces, separated from the cycles of the sun and the weather. Our balconies, no matter how small or simple, are the bridge to the outside. they are our private destinations for air, light, and life. A "Balcony Setup" is more than just about furniture; it is the art of creating a restorative outdoor sanctuary within your local environment. This essay explores the philosophy of the balcony and providing practical insights into making it a grounding part of your intentional life.
 
-The goal of your balcony setup is to create a place where you can be fully present with nature. This might mean watching the sunrise with a morning coffee, enjoying a tea ritual on a rainy day, or observing the stars as part of your evening routine. By mastersing the art of the balcony sanctuary, you are reclaiming your original connection to the earth. You are building a space that honors the slow pace of the natural world and provides a source of daily restoration.
+The goal of your balcony setup is to create a place where you can be fully present with nature. This might mean watching the sunrise with a morning coffee, enjoying a [tea ritual](/blog/tea-rituals) on a rainy day, or observing the stars as part of your [evening routine](/blog/evening-rituals). By mastersing the art of the balcony sanctuary, you are reclaiming your original connection to the earth. You are building a space that honors the slow pace of the natural world and provides a source of daily restoration.
 
 ## Defining the Elemental Layers
 

@@ -18,7 +18,7 @@ This journal exists to meet that desire with more depth than a single image can 
 
 ## What We Will Write About
 
-Our focus is cozy living as a complete lifestyle, not just a decorating category. That means you will find writing around:
+Our focus is cozy living as a complete lifestyle, ranging from [minimal living](/blog/minimal-living-guide) to [cozy evening rituals](/blog/evening-routine-guide) and [quiet workspaces](/blog/workspace-design). That means you will find writing around:
 
 1. **Calm home decor and warm, livable interiors**
 2. **Bedroom comfort, reading corners, balconies, and quiet nooks**

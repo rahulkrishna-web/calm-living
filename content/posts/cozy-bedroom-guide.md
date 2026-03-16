@@ -27,7 +27,7 @@ Sage greens, misty blues, warm greys, and soft creams are all excellent choices 
 
 ## Managing the Light: The Amber Glow and Total Darkness
 
-As we have explored in our Candle Atmosphere and Night Reset guides, light is the primary regulator of our circadian rhythms. To support deep rest, your bedroom must be capable of both beautiful soft light and absolute total darkness.
+As we have explored in our [Candle Atmosphere](/blog/candle-atmosphere) and [Night Reset](/blog/night-reset) guides, light is the primary regulator of our circadian rhythms. To support deep rest, your bedroom must be capable of both beautiful soft light and absolute total darkness.
 
 During the evening transition, avoid all overhead ceiling lights. Instead, use multiple layers of soft, warm-toned accent lighting. table lamps with linen shades, low-wattage amber bulbs, and a single, safe candle. This "glow" signals to your body that the day is over and that it is safe to begin the wind-down process. For the period of sleep itself, ensure the room can be made completely dark. Use heavy, blackout curtains or a comfortable sleep mask to block all external light from windows or electronic devices even the smallest blue light from a charger can disrupt your sleep cycle. By mastersing the light of your sanctuary, you masters the biology of your rest. You create an environment that supports your natural rhythms and protects your mental sovereignty.
 

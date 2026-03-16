@@ -9,7 +9,7 @@ tags: ["quotes", "inspiration", "mindfulness", "intentional-living", "books-and-
 
 # Quotes: The Power of Concise Wisdom
 
-In a world filled with noisy and often shallow communication, the "quote" is a sanctuary of concise wisdom. A great quote is like a highly concentrated piece of truth. It captures a complex idea, a profound emotion, or a timeless philosophy in a single, memorable sentence. Quotes have the power to challenge our assumptions, to comfort our fears, and to inspire our highest intentions. This short essay explores the value of the quote and how to make the collection and reflection on concise wisdom a grounding part of your local living rituals.
+In a world filled with noisy and often shallow communication, the "quote" is a sanctuary of concise wisdom. A great quote is like a highly concentrated piece of truth. It captures a complex idea, a profound emotion, or a timeless philosophy in a single, memorable sentence. Quotes have the power to challenge our assumptions, to comfort our fears, and to inspire our highest intentions. This short essay explores the value of the quote and how to make the collection and reflection on concise wisdom a grounding part of your local living rituals, much like [journaling](/blog/journaling) and [reading notes](/blog/reading-notes).
 
 The goal of collecting quotes is not to sound intelligent or to impress others. it is about finding a source of guidance for yourself. It is about identifying the specific words that resonate with your own values and your own experience. By mastersing the art of the quote, you create a personal library of wisdom that you can return to whenever you need a sense of direction or peace.
 

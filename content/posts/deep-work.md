@@ -21,7 +21,7 @@ In a typical workday, most people switch tasks every few minutes. This means the
 
 ## Designing the Sanctuary for the Deep State
 
-Deep work is difficult and demanding. You cannot expect to reach a deep state in a noisy or cluttered environment. To support your concentration, you must design a dedicated sanctuary for your deep work sessions. As we have explored in our design rituals and workspace guides, this space should be calm, organized, and free from all visual and auditory distractions.
+Deep work is difficult and demanding. You cannot expect to reach a deep state in a noisy or cluttered environment. To support your concentration, you must design a dedicated sanctuary for your deep work sessions. As we have explored in our [home reset rituals](/blog/home-reset-rituals) and [workspace guides](/blog/workspace-design), this space should be calm, organized, and free from all visual and auditory distractions.
 
 Start by clearing your desk of everything except the one task you are working on. Turn off your phone and put it in another room. Close all unnecessary tabs on your computer and turn off all non-essential notifications. If you work in a noise environment, use high-quality noise-canceling headphones or listen to a repetitive, focus-enhancing soundtrack. This sanctuary acts as a "container" for your attention. It signals to your brain that it is safe to settle in and go deep. The environment is the catalyst for the cognitive state. by making it quiet and clear, you make it much easier to enter the zone.
 

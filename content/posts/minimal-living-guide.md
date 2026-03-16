@@ -21,7 +21,7 @@ Minimalism encourages us to define our own personal "enough." It asks us to iden
 
 ## The Physical Reset: Simplifying Your Sanctuary
 
-The most visible part of minimal living is the simplification of the physical home. We have explored the mechanics of this in our decluttering and aesthetic organization guides, but in the context of a "minimal guide," it is important to look at the overall strategy of the home reset.
+The most visible part of minimal living is the simplification of the physical home. We have explored the mechanics of this in our [decluttering](/blog/decluttering) and [aesthetic organization](/blog/aesthetic-organization) guides, but in the context of a "minimal guide," it is important to look at the overall strategy of the home reset.
 
 Start by treating your home as a sacred sanctuary. Every item you allow into your space should serve a purpose or bring you joy. Adopt an "editing" mindset, where you are the curator of your own environment. Clear your surfaces, organize your storage with intent, and prioritize natural materials and high-quality craftsmanship. But beyond the aesthetics, focus on the "space" itself. Minimal living is about valuing the empty areas of your home as much as the occupied ones. This negative space provides a sense of visual rest and allows the beauty of your curated belongings to shine. By simplifyng your sanctuary, you create a physical foundation for your mental peace. Your home becomes a clear and quiet destination for your best self.
 

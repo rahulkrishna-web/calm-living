@@ -9,7 +9,7 @@ tags: ["outdoor", "balcony", "plants", "small-spaces"]
 
 # Small Balcony Cozy Living Guide
 
-An outdoor balcony is a valuable extension of your living space. It offers a unique connection to the outside world. Even a small balcony can be transformed into a peaceful retreat for morning coffee or evening reflection. In an increasingly urbanized world, these small pockets of outdoor access are essential for our mental wellbeing. They allow us to breathe fresh air and feel the sun on our skin without leaving our home. This guide provides a deep dive into how to design, plant, and maintain a cozy balcony garden that serves as your personal sanctuary.
+An outdoor balcony is a valuable extension of your living space. It offers a unique connection to the outside world. Even a small balcony can be transformed into a peaceful retreat for morning coffee or evening reflection. In an increasingly urbanized world, these small pockets of outdoor access are essential for our mental wellbeing. They allow us to breathe fresh air and feel the sun on our skin without leaving our home. This guide provides a deep dive into how to design, plant, and maintain a cozy balcony garden that serves as your personal sanctuary, following our [outdoor styling](/blog/balcony-setup-guide) and [small space](/blog/small-apartment-living) principles.
 
 With thoughtful design, you can create a space that feels like a private garden in the city. The challenge is often the limited footprint. However, constraints can lead to great creativity. By focusing on the essential elements of comfort and nature, we can build a balcony that feels much larger than it actually is. It becomes a place where we can experience the changing seasons and the slow pace of the natural world.
 

@@ -17,7 +17,7 @@ Engaging with book reviews is a practice of intentional curation. In an age of i
 
 The primary goal of a mindful book review is not to provide a definitive "star rating" or a simple plot summary. Instead, it is to explore the interaction between the reader and the book. What was the author trying to achieve? How successfully did they achieve it? And most importantly, how did the book impact your own thinking and your own life?
 
-A successful review should balance objective analysis with subjective experience. It should provide enough context for the reader to understand the book's place in the world, but it should also provide a personal voice. It is a source of "translation," where the complex ideas of the book are interpreted through the lens of a real life. For the reader of a review, the goal is to find a sense of resonance and to understand if the book is a "good guest" for their own home sanctuary. For the writer, the goal is to achieve clarity and to honor the work of the author.
+A successful review should balance objective analysis with subjective experience, building on your [reading time](/blog/reading-time) and [reading notes](/blog/reading-notes). It should provide enough context for the reader to understand the book's place in the world, but it should also provide a personal voice. It is a source of "translation," where the complex ideas of the book are interpreted through the lens of a real life. For the reader of a review, the goal is to find a sense of resonance and to understand if the book is a "good guest" for their own home sanctuary. For the writer, the goal is to achieve clarity and to honor the work of the author.
 
 ## The Ritual of the Reflective Read
 

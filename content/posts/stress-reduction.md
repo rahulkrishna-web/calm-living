@@ -35,7 +35,7 @@ Start by streamlining your routines and your environment. A tidy home, an organi
 
 When you are in the midst of a stressful moment, the most powerful tool you have is the pause. A pause is a deliberate break in your reactive cycle. It is a moment to step back and breathe before you respond to the situation. This simple act can prevent a stressful event from spiralling into a state of chronic anxiety.
 
-During the pause, practice deep, diaphragmatic breathing. Inhale slowly and deeply through your nose, allowing your belly to expand. Then, exhale slowly through your mouth. This type of breathing directly stimulates the parasympathetic nervous system, which is the body's natural "rest and digest" mode. It signals to your brain that the danger has passed and that it is safe to relax. Even three deep breaths can significantly lower your heart rate and clear your mind. The pause is your personal circuit breaker. It is a way to reclaim your peace in the middle of any storm.
+During the pause, practice deep, diaphragmatic breathing. You can find more specific techniques in our [breathing practices guide](/blog/breathing-practices) and our [mindfulness foundations](/blog/mindfulness). Inhale slowly and deeply through your nose, allowing your belly to expand. Then, exhale slowly through your mouth. This type of breathing directly stimulates the parasympathetic nervous system, which is the body's natural "rest and digest" mode. It signals to your brain that the danger has passed and that it is safe to relax. Even three deep breaths can significantly lower your heart rate and clear your mind. The pause is your personal circuit breaker. It is a way to reclaim your peace in the middle of any storm.
 
 ## Cultivating a Mindset of Radical Acceptance
 

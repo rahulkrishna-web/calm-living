@@ -33,7 +33,7 @@ Start with your smartphone. Delete all social media apps and news feeds. Move al
 
 ## The Ritual of the Digital Sunset
 
-One of the most effective practices for digital minimalism is the "Digital Sunset." As we have explored in our Cozy Evenings and Night Reset guides, this is the ritual of turning off all digital devices at least one hour before sleep. This practice is essential for both your mental health and your physiological wellbeing.
+One of the most effective practices for digital minimalism is the "Digital Sunset." As we have explored in our [evening rituals](/blog/evening-rituals) and [night reset](/blog/night-reset) guides, this is the ritual of turning off all digital devices at least one hour before sleep. This practice is essential for both your mental health and your physiological wellbeing.
 
 The blue light emitted by screens suppresses the production of melatonin, the hormone that tells your body it is time to rest. More importantly, the content of the digital world. the news, the social comparisons, and the work emails. keeps your brain in a state of high-intensity alert. By enforcing a digital sunset, you are creating a sanctuary for your nervous system. You are allowing your mind to settle and your body to prepare for a deep and restorative rest. Use this time for analog activities like a tea ritual, a candle atmosphere, or a shared conversation with your local community. The digital sunset is the bridge from the noise of the world to the sanctuary of the home.
 

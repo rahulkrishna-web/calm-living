@@ -39,7 +39,7 @@ To support intentional work, design your schedule around your own natural rhythm
 
 ## The Ritual of Desktop and Digital Clarity
 
-As we have explored in our design rituals and workspace guides, the physical and digital environment has a profound impact on our work. A cluttered desk and a noisy screen create a state of mental fog and constant distraction. To support intentional work, you must maintain a high level of environmental clarity.
+As we have explored in our [home reset rituals](/blog/home-reset-rituals) and [workspace guides](/blog/workspace-design), the physical and digital environment has a profound impact on our work. A cluttered desk and a noisy screen create a state of mental fog and constant distraction. To support intentional work, you must maintain a high level of environmental clarity.
 
 Implement a daily "start and stop" ritual for your workspace. At the beginning of your work session, clear your desk of everything except the tools needed for your current project. At the end of the session, perform a "night reset" to return the space to its baseline. In the digital world, practice intentional minimalism. Turn off non-essential notifications, clear your desktop, and use only the tools that are necessary for your work. A clear and quiet environment acts as a sanctuary for your attention. It allows your mind to settle into the work and your creativity to flourish. Clarity is the ultimate catalyst for purposeful achievement.
 
