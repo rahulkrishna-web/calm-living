@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Calm Living Journal
 
-## Getting Started
+[![Calm Living Preview](/home/rahul-krishna/.gemini/antigravity/brain/f962beea-3a3e-4a4d-ada0-e31858b01ac8/landing_page_hero_1773654676543.png)](https://calm-living.vercel.app/)
 
-First, run the development server:
+> **A premium editorial platform dedicated to intentional design, slow living, and mindfulness rituals.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Calm Living is more than just a blog—it's a digital sanctuary designed to provide a quiet, distraction-free reading experience. Built with a focus on editorial excellence and high-performance technology, it serves as a modern journal for the intentional mind.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**[Live Demo](https://calm-living.vercel.app/)**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌿 The Philosophy
 
-## Learn More
+In an era of digital noise, *Calm Living* prioritizes clarity. Every design choice—from the sidebar-first navigation to the minimalist typography—is crafted to keep the reader focused on the substance of the essays. We promote a slower cadence of high-quality content over the rapid-fire consumption of the modern web.
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Key Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🏛️ Editorial-First Layout
+A sophisticated, browser-native editorial structure that feels more like a physical journal than a website.
+- **Sidebar Navigation**: A permanent, collapsible sidebar for effortless content discovery without interrupting the reading flow.
+- **Dynamic Content Hierarchy**: Essays are categorized by "Journals" and "Editorial" sections for clear thematic grouping.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🏷️ Intuitive Discovery
+- **Dynamic Tag Archives**: Every essay is interlinked via a robust tag system, allowing readers to explore related topics like *Slow Living*, *Design Rituals*, or *Mindfulness*.
+- **Topic-Based Filtering**: Dedicated archive pages for every tag, ensuring deep content discoverability.
 
-## Deploy on Vercel
+### 🚀 Optimized for the Modern Web
+- **SEO & AI Ready**: Implementation of structured JSON-LD data (`BlogPosting`, `BreadcrumbList`) ensures high-quality indexing and rich search results.
+- **Performance**: Built on Next.js 15 for lightning-fast page transitions and optimal Core Web Vitals.
+- **Native Sharing**: Integrated Web Share API support for seamless sharing on mobile and desktop.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 📬 Lead Generation
+- **Integrated Modal System**: A elegant, non-intrusive "Download Free Guide" CTA with full validation, designed to build community without disrupting the user experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠️ Technical Stack
+
+- **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+- **Typography**: Playfair Display (Serif) & Inter (Sans-serif) via Google Fonts
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Content Management**: Markdown-based filesystem CMS with MDX support
+
+---
+
+## 🛠️ Local Development
+
+### Prerequisites
+- Node.js 18+
+- npm / yarn / pnpm
+
+### Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/rahulkrishna-web/calm-living.git
+   cd calm-living
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Open the browser**:
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 🌐 Deployment
+
+This project is optimized for deployment on the **Vercel Platform**. 
+
+The current live instance can be found at: [https://calm-living.vercel.app/](https://calm-living.vercel.app/)
+
+---
+
+## 📝 License
+
+Designed and Developed by Rahul Krishna. 
+
+---
+
+*“Design is not just what it looks like and feels like. Design is how it works.”*
