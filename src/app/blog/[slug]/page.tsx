@@ -97,14 +97,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
       : ['mindfulness', 'design rituals', 'slow living']
 
   const mdxComponents = {
-    h1: ({ children }: { children: ReactNode }) => {
-      const text = extractText(children)
-      return (
-        <h1 id={slugifyHeading(text)} className="scroll-mt-24">
-          {children}
-        </h1>
-      )
-    },
+    h1: () => null,
     h2: ({ children }: { children: ReactNode }) => {
       const text = extractText(children)
       return (
@@ -182,8 +175,8 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
           </header>
 
           <div className="mt-10 grid gap-12 lg:grid-cols-[minmax(0,1fr)_288px] lg:gap-10">
-            <div className="max-w-3xl pl-0 sm:pl-8 lg:pl-10">
-              <div className="prose prose-neutral max-w-none prose-p:text-[1rem] prose-p:leading-8 sm:prose-p:text-[1.0625rem] prose-headings:font-serif prose-headings:font-semibold prose-headings:tracking-tight prose-h1:text-4xl prose-h2:mt-14 prose-h2:text-[2rem] prose-h3:mt-10 prose-h3:text-[1.6rem] prose-li:text-[1rem] prose-li:leading-8 prose-a:text-[#8A6F5A] prose-a:underline prose-a:underline-offset-4 prose-strong:text-foreground prose-blockquote:border-l-2 prose-blockquote:border-[#CFA8A1]/50 prose-blockquote:pl-6 prose-blockquote:text-[#7B5E4A] prose-blockquote:text-2xl prose-blockquote:leading-10 prose-blockquote:sm:text-[2rem] prose-blockquote:italic prose-figcaption:text-sm prose-figcaption:text-muted-foreground">
+            <div className="max-w-3xl px-0 sm:px-6 lg:px-8">
+              <div className="prose prose-neutral dark:prose-invert max-w-none prose-headings:font-serif prose-headings:font-semibold prose-a:text-primary hover:prose-a:opacity-80 transition-opacity">
                 <MDXRemote source={postData.content} components={mdxComponents} />
               </div>
             </div>
