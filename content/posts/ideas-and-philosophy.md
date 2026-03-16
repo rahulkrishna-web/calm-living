@@ -1,6 +1,6 @@
 ---
 title: "Ideas & Philosophy: The Intellectual Roots of Calm Living"
-date: "2024-03-22"
+date: "2024-07-24"
 excerpt: "A life of intentionality is built on a foundation of deep ideas. Explore the philosophical roots of the calm living movement and the thinkers who shaped it."
 author: "Calm Living"
 handle: "@calmliving"

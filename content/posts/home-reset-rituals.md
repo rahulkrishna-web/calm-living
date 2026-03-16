@@ -1,6 +1,6 @@
 ---
 title: "Home Reset Rituals: The Art of Renewal"
-date: "2024-08-26"
+date: "2025-04-20"
 excerpt: "Returning your space to its baseline is not a chore; it is a ritual of renewal. Discover how to build a home reset practice that maintains your peace."
 author: "Calm Living"
 handle: "@calmliving"

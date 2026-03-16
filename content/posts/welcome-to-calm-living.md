@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Calm Living"
-date: "2024-12-18"
+date: "2025-11-01"
 excerpt: "Calm Living is a journal for softer spaces, slower rituals, and the kind of everyday beauty people are often searching for long before they know how to name it."
 author: "Rahul Krishna"
 handle: "@rahulkrishna"

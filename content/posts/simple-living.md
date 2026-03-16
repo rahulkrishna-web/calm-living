@@ -1,6 +1,6 @@
 ---
 title: "Simple Living: The Joy of Less"
-date: "2024-07-08"
+date: "2025-01-20"
 excerpt: "Complexity is the enemy of calm. Discover how to reduce the friction in your life by embracing the principles of simple and intentional living."
 author: "Calm Living"
 handle: "@calmliving"

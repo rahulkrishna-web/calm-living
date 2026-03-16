@@ -1,6 +1,6 @@
 ---
 title: "The Art of Intentional Living"
-date: "2024-07-16"
+date: "2025-02-04"
 excerpt: "Living by design, not by default. Explore how to align your daily actions with your deepest values for a life of purpose and peace."
 author: "Calm Living"
 handle: "@calmliving"

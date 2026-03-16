@@ -1,6 +1,6 @@
 ---
 title: "Balcony Setup Guide: Your Small Outdoor Sanctuary"
-date: "2024-09-05"
+date: "2025-05-05"
 excerpt: "Nature is the ultimate source of peace. Discover how to transform even the smallest balcony into a restorative outdoor destination."
 author: "Calm Living"
 handle: "@calmliving"

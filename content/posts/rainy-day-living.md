@@ -1,6 +1,6 @@
 ---
 title: "Rainy Day Living: A Pillar Guide to Home Sanctuary"
-date: "2025-01-11"
+date: "2025-12-16"
 excerpt: "Inclement weather is an invitation to go within. Explore the definitive philosophy of the rainy day and how to transform your home into a profound sanctuary."
 author: "Calm Living"
 handle: "@calmliving"

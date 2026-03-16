@@ -1,6 +1,6 @@
 ---
 title: "Reading Notes: The Intimacy of Marginalia"
-date: "2025-02-23"
+date: "2026-03-01"
 excerpt: "A book is not just a source of information; it is a canvas for your own thoughts. Explore the art of reading notes and the value of leaving your mark."
 author: "Calm Living"
 handle: "@calmliving"

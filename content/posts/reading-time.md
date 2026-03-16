@@ -1,6 +1,6 @@
 ---
 title: "Reading Time: The Immersive Evening Ritual"
-date: "2024-04-26"
+date: "2024-09-22"
 excerpt: "A book is a bridge to another world. Explore the art of evening reading and how to create a restorative ritual of silence and story."
 author: "Calm Living"
 handle: "@calmliving"

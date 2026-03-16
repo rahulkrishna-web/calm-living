@@ -1,6 +1,6 @@
 ---
 title: "Quotes: The Power of Concise Wisdom"
-date: "2025-01-04"
+date: "2025-12-01"
 excerpt: "A single sentence can change your perspective for a lifetime. Explore the art of collecting and reflecting on quotes for a calmer and more inspired home."
 author: "Calm Living"
 handle: "@calmliving"

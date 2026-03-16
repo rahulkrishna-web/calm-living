@@ -1,6 +1,6 @@
 ---
 title: "The Night Reset: Concluding the Day with Order"
-date: "2024-11-11"
+date: "2025-09-02"
 excerpt: "A peaceful morning begins the night before. Discover the ritual of the night reset and how to prepare your home and mind for a restorative rest."
 author: "Calm Living"
 handle: "@calmliving"

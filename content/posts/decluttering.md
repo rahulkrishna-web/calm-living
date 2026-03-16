@@ -1,6 +1,6 @@
 ---
 title: "Decluttering: The Art of Subtraction"
-date: "2024-01-22"
+date: "2024-04-10"
 excerpt: "True style begins with what you remove. Explore the psychology of decluttering and how to curate a home that feels open and intentional."
 author: "Calm Living"
 handle: "@calmliving"

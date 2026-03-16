@@ -1,6 +1,6 @@
 ---
 title: "Tea Rituals: The Art of the Evening Brew"
-date: "2024-06-28"
+date: "2025-01-05"
 excerpt: "Tea is more than a drink; it is a meditation. Discover how to create a restorative evening tea ritual that slows down your mind and prepares you for rest."
 author: "Calm Living"
 handle: "@calmliving"

@@ -1,6 +1,6 @@
 ---
 title: "Intentional Work: A Pillar Guide to Purposeful Productivity"
-date: "2024-11-30"
+date: "2025-10-02"
 excerpt: "True productivity is not about doing more; it is about doing what matters. Explore the definitive philosophy of intentional work and how to align your career with your values."
 author: "Calm Living"
 handle: "@calmliving"

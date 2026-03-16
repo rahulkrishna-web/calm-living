@@ -1,6 +1,6 @@
 ---
 title: "Candle Atmosphere: The Art of Soft Lighting"
-date: "2024-10-01"
+date: "2025-06-19"
 excerpt: "Light is the soul of a room. Discover how to use candles and soft lighting to create an intimate, calming, and beautiful evening atmosphere."
 author: "Calm Living"
 handle: "@calmliving"

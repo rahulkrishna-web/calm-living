@@ -1,6 +1,6 @@
 ---
 title: "Deep Work: The Superpower of the 21st Century"
-date: "2024-11-21"
+date: "2025-09-17"
 excerpt: "In a world of constant distraction, the ability to focus deeply is a rare and valuable skill. Explore the practice of deep work and how to masters your cognitive potential."
 author: "Calm Living"
 handle: "@calmliving"

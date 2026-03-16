@@ -1,6 +1,6 @@
 ---
 title: "Mental Clarity: Cleaning the Internal Windshield"
-date: "2025-02-07"
+date: "2026-01-30"
 excerpt: "In an age of information overload, mental clarity is a rare luxury. Discover the philosophy and practice of clearing your mental space for better focus and peace."
 author: "Calm Living"
 handle: "@calmliving"

@@ -1,6 +1,6 @@
 ---
 title: "Reading Corner Guide: Creating a Sanctuary for Stories"
-date: "2024-01-30"
+date: "2024-04-25"
 excerpt: "A great book deserves a great space. Discover how to design a reading corner that supports deep focus, comfort, and the joy of literature."
 author: "Calm Living"
 handle: "@calmliving"

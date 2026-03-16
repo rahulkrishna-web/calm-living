@@ -1,6 +1,6 @@
 ---
 title: "Aesthetic Organization: Beauty in Function"
-date: "2024-06-19"
+date: "2024-12-21"
 excerpt: "Organization is not just about order; it is about aesthetics. Learn how to transform your storage into a beautiful and calming part of your home design."
 author: "Calm Living"
 handle: "@calmliving"

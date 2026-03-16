@@ -1,6 +1,6 @@
 ---
 title: "Morning Rituals for Calm Living"
-date: "2024-06-03"
+date: "2024-11-21"
 excerpt: "How you start your day defines how you live your life. Explore the deep philosophy and practical steps of creating a restorative morning ritual."
 author: "Calm Living"
 handle: "@calmliving"

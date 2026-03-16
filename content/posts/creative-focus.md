@@ -1,6 +1,6 @@
 ---
 title: "Creative Focus: The Ritual of the Inspired Mind"
-date: "2024-11-01"
+date: "2025-08-18"
 excerpt: "Creativity is not a talent; it is a way of operating. Explore the art of creative focus and how to design a life that supports your original voice."
 author: "Calm Living"
 handle: "@calmliving"

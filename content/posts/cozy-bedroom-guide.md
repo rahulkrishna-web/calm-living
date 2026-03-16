@@ -1,6 +1,6 @@
 ---
 title: "Cozy Bedroom Guide: Designing Your Sanctuary of Rest"
-date: "2024-09-15"
+date: "2025-05-20"
 excerpt: "The bedroom is the most important room in your home. Discover the essential elements of a cozy, calming, and restorative bedroom sanctuary."
 author: "Calm Living"
 handle: "@calmliving"

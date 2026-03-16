@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness: Foundational Practices for a Calm Life"
-date: "2024-09-23"
+date: "2025-06-04"
 excerpt: "Mindfulness is more than a buzzword; it is a fundamental shift in how we experience our thoughts and the world. Learn the foundational practices for building deeper presence."
 author: "Calm Living"
 handle: "@calmliving"

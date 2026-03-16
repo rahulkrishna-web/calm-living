@@ -1,6 +1,6 @@
 ---
 title: "Digital Minimalism: Reclaiming Your Attention"
-date: "2024-02-08"
+date: "2024-05-10"
 excerpt: "In a world designed to distract you, digital minimalism is a revolutionary act. Explore how to use technology with intention and protect your mental sovereignty."
 author: "Calm Living"
 handle: "@calmliving"

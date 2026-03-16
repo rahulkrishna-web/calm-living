@@ -1,6 +1,6 @@
 ---
 title: "Evening Routine Guide: The Architecture of the Wind-Down"
-date: "2024-08-19"
+date: "2025-04-05"
 excerpt: "A peaceful night is not an accident; it is the result of a deliberate evening routine. Discover the essential rituals for winding down and preparing for rest."
 author: "Calm Living"
 handle: "@calmliving"

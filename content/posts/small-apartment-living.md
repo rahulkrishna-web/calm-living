@@ -1,6 +1,6 @@
 ---
 title: "Small Apartment Living"
-date: "2024-05-26"
+date: "2024-11-06"
 excerpt: "Maximize your space without sacrificing style. Strategic design tips for making a small apartment feel open, airy, and organized."
 author: "Calm Living"
 handle: "@calmliving"

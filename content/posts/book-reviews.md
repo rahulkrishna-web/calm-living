@@ -1,6 +1,6 @@
 ---
 title: "Book Reviews: The Art of Mindful Reading"
-date: "2025-02-14"
+date: "2026-02-14"
 excerpt: "A book review is more than a recommendation; it is a conversation with a text. Discover how to read and write reviews that enhance your understanding and your peace."
 author: "Calm Living"
 handle: "@calmliving"

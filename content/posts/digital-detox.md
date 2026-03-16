@@ -1,6 +1,6 @@
 ---
 title: "Digital Detox: Reclaiming Your Attention"
-date: "2024-05-16"
+date: "2024-10-22"
 excerpt: "In a world of infinite scrolls and constant notifications, space is the ultimate luxury. Learn how to practice a digital detox and find freedom in the off-line world."
 author: "Calm Living"
 handle: "@calmliving"

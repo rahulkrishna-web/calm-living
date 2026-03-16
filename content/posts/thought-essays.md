@@ -1,6 +1,6 @@
 ---
 title: "Thought Essays: The Art of Long-Form Reflection"
-date: "2024-07-24"
+date: "2025-02-19"
 excerpt: "In a world of soundbites, the long-form essay is a refuge for the mind. Explore how to engage with and write thought essays for a deeper understanding of your life."
 author: "Calm Living"
 handle: "@calmliving"

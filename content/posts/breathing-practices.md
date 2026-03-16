@@ -1,6 +1,6 @@
 ---
 title: "Breathing Practices: The Physiology of Calm"
-date: "2024-02-16"
+date: "2024-05-25"
 excerpt: "Your breath is the remote control for your nervous system. Explore practical breathing techniques that can immediately change how you feel and think."
 author: "Calm Living"
 handle: "@calmliving"

@@ -1,6 +1,6 @@
 ---
 title: "Lighting & Ambience"
-date: "2024-04-17"
+date: "2024-09-07"
 excerpt: "The subtle science of atmosphere. How to use layered lighting to create a warm and restorative mood throughout your home."
 author: "Calm Living"
 handle: "@calmliving"

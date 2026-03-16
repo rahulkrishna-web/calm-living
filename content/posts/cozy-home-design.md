@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Calm Home Environment"
-date: "2024-10-16"
+date: "2025-07-19"
 excerpt: "A comprehensive guide to designing a home that supports mental clarity and peaceful living through intentional design."
 author: "Calm Living"
 handle: "@calmliving"

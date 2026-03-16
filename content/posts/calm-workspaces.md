@@ -1,6 +1,6 @@
 ---
 title: "Calm Workspaces: Designing for Deep Focus"
-date: "2024-02-26"
+date: "2024-06-09"
 excerpt: "Deep focus is a rare and valuable resource. Learn how to create a calm workspace environment and mindset that supports your most meaningful work."
 author: "Calm Living"
 handle: "@calmliving"

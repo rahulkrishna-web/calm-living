@@ -1,6 +1,6 @@
 ---
 title: "Calm Corners"
-date: "2025-01-30"
+date: "2026-01-15"
 excerpt: "Small spaces for big reflections. How to dedicate even the smallest corner of your home to stillness and personal rituals."
 author: "Calm Living"
 handle: "@calmliving"

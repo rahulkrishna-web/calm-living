@@ -1,6 +1,6 @@
 ---
 title: "Journaling: The Ritual of Externalizing Thoughts"
-date: "2025-01-20"
+date: "2025-12-31"
 excerpt: "Your journal is a private destination for your most honest thoughts. Explore the power of writing by hand to find clarity, gratitude, and peace."
 author: "Calm Living"
 handle: "@calmliving"

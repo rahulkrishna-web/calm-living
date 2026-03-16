@@ -1,6 +1,6 @@
 ---
 title: "The Power of Quiet Time"
-date: "2024-12-10"
+date: "2025-10-17"
 excerpt: "Silence is not the absence of sound, but the presence of mind. Explore why carving out quiet time is essential for clarity and peace."
 author: "Calm Living"
 handle: "@calmliving"

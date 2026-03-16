@@ -1,6 +1,6 @@
 ---
 title: "Minimal Living Guide: The Path to Absolute Simplicity"
-date: "2024-10-09"
+date: "2025-07-04"
 excerpt: "Minimalism is not about having less; it is about making room for more of what matters. Explore the definitive guide to simplifying your home and your life."
 author: "Calm Living"
 handle: "@calmliving"

@@ -1,6 +1,6 @@
 ---
 title: "Planning Systems: Organizing the Intentional Life"
-date: "2024-08-10"
+date: "2025-03-21"
 excerpt: "A plan is a map for your mind. Explore how to design and maintain planning systems that provide order and peace without the stress of the to-do list."
 author: "Calm Living"
 handle: "@calmliving"

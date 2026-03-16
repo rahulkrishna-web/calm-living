@@ -1,6 +1,6 @@
 ---
 title: "Stress Reduction: A Comprehensive Guide to Inner Peace"
-date: "2024-03-12"
+date: "2024-07-09"
 excerpt: "Stress is an inevitable part of life, but it doesn't have to define your experience. Discover deep strategies for reducing stress and cultivating a resilient mind."
 author: "Calm Living"
 handle: "@calmliving"

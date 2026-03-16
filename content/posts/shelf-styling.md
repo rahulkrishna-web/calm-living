@@ -1,6 +1,6 @@
 ---
 title: "Shelf Styling: The Ritual of Curation"
-date: "2024-01-15"
+date: "2024-03-26"
 excerpt: "A shelf is a canvas for your life. Learn how to curate your favorite objects into a beautiful and meaningful display that brings calm to your home."
 author: "Calm Living"
 handle: "@calmliving"

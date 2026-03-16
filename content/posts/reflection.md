@@ -1,6 +1,6 @@
 ---
 title: "The Art of Reflection: Looking Back to Move Forward"
-date: "2024-10-24"
+date: "2025-08-03"
 excerpt: "We do not learn from experience; we learn from reflecting on experience. Discover the power of intentional reflection for a deeper and more meaningful life."
 author: "Calm Living"
 handle: "@calmliving"

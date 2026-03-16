@@ -1,6 +1,6 @@
 ---
 title: "Workspace Design for a Quiet Life"
-date: "2024-03-04"
+date: "2024-06-24"
 excerpt: "Your workspace is the engine of your intentional work. Learn how to design a physical setup that supports deep focus, creativity, and ergonomic health."
 author: "Calm Living"
 handle: "@calmliving"

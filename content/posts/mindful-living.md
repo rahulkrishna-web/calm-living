@@ -1,6 +1,6 @@
 ---
 title: "Mindful Living: The Art of Being Present"
-date: "2024-03-29"
+date: "2024-08-08"
 excerpt: "Mindfulness is not a practice for the mat; it is a way of life. Learn how to integrate deep presence and intentional awareness into your daily rituals."
 author: "Calm Living"
 handle: "@calmliving"
