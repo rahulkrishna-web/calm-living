@@ -1,6 +1,6 @@
 ---
 title: "Small Balcony Cozy Living Guide"
-date: "2026-03-16"
+date: "2024-05-06"
 excerpt: "Transform your outdoor area into a lush retreat. Discover how to style a balcony that offers a breath of fresh air and a connection to nature."
 author: "Calm Living"
 handle: "@calmliving"

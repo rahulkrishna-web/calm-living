@@ -1,6 +1,6 @@
 ---
 title: "Reading Nooks"
-date: "2026-03-16"
+date: "2024-12-27"
 excerpt: "Create a dedicated space for literary escape. Design tips for building a cozy corner that invites you to slow down and read."
 author: "Calm Living"
 handle: "@calmliving"

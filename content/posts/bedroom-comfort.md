@@ -1,6 +1,6 @@
 ---
 title: "Cozy Bedroom Setup Guide"
-date: "2026-03-16"
+date: "2024-06-11"
 excerpt: "Your bedroom should be a sanctuary for rest and recovery. Learn how to optimize your sleep environment for deep comfort and tranquility."
 author: "Calm Living"
 handle: "@calmliving"

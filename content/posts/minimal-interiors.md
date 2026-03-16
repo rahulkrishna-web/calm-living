@@ -1,6 +1,6 @@
 ---
 title: "Minimal Interiors"
-date: "2026-03-16"
+date: "2024-04-07"
 excerpt: "Beyond the aesthetic of empty space. How to design a minimalist home that feels warm, personal, and profoundly peaceful."
 author: "Calm Living"
 handle: "@calmliving"

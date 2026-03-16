@@ -1,6 +1,6 @@
 ---
 title: "Seasonal Decor"
-date: "2026-03-16"
+date: "2024-08-01"
 excerpt: "Stay connected to the natural cycle. How to subtly update your home throughout the year to reflect the changing pace of the seasons."
 author: "Calm Living"
 handle: "@calmliving"

@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { isValidElement, type ReactNode } from 'react'
 import { Clock3Icon } from 'lucide-react'
+import type { Metadata } from 'next'
 
 type Heading = {
   id: string
@@ -78,6 +79,32 @@ export async function generateStaticParams() {
   }))
 }
 
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params
+  const postData = await getPostData(slug)
+  
+  const siteUrl = 'https://calm-living.com' // Replace with actual production URL
+
+  return {
+    title: `${postData.title} | Calm Living Journal`,
+    description: postData.excerpt,
+    openGraph: {
+      title: postData.title,
+      description: postData.excerpt,
+      type: 'article',
+      url: `${siteUrl}/blog/${slug}`,
+      publishedTime: postData.date,
+      authors: [postData.author ?? 'Calm Living'],
+      tags: postData.tags,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: postData.title,
+      description: postData.excerpt,
+    },
+  }
+}
+
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
 
@@ -116,6 +143,32 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
     },
   }
 
+  const siteUrl = 'https://calm-living.com'
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: postData.title,
+    description: postData.excerpt,
+    datePublished: postData.date,
+    author: {
+      '@type': 'Person',
+      name: postData.author ?? 'Calm Living',
+      url: siteUrl,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Calm Living',
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/logo.png`, // Update with actual logo URL
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteUrl}/blog/${slug}`,
+    },
+  }
+
   return (
     <BlogShell
       currentSlug={slug}
@@ -123,6 +176,10 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
       posts={posts}
       title={postData.title}
     >
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <article className="flex w-full flex-1 px-4 py-8 lg:px-6 lg:py-10">
         <div className="w-full">
           <header className="border-b border-border/80 pb-10">

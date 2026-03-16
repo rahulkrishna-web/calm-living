@@ -27,8 +27,35 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: "Calm Living | Design & Mindfulness Blog",
-  description: "A premium blog platform built with Next.js and Shadcn.",
+  title: {
+    default: "Calm Living | Design & Mindfulness Blog",
+    template: "%s | Calm Living",
+  },
+  description: "A premium blog platform focused on intentional design, slow living, and mindfulness rituals.",
+  openGraph: {
+    title: "Calm Living",
+    description: "A premium blog platform focused on intentional design, slow living, and mindfulness rituals.",
+    url: "https://calm-living.com",
+    siteName: "Calm Living",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Calm Living",
+    description: "A premium blog platform focused on intentional design, slow living, and mindfulness rituals.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 }
 
 export default function RootLayout({
