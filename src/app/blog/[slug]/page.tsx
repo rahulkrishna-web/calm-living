@@ -4,6 +4,7 @@ import { MDXRemote } from 'next-mdx-remote/rsc'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { isValidElement, type ReactNode } from 'react'
+import { ShareButton } from '@/components/share-button'
 import { Clock3Icon } from 'lucide-react'
 import type { Metadata } from 'next'
 
@@ -210,20 +211,26 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
                         day: 'numeric',
                       })}
                     </time>
-                    <span className="hidden h-4 w-px bg-border sm:block" />
                     <span className="inline-flex items-center gap-2 text-muted-foreground">
                       <Clock3Icon className="size-4" />
                       {readingTime} min read
                     </span>
+                    <span className="hidden h-4 w-px bg-border sm:block" />
+                    <ShareButton 
+                      title={postData.title}
+                      text={postData.excerpt}
+                      url={`${siteUrl}/blog/${slug}`}
+                    />
                   </div>
                   <div className="mt-4 flex flex-wrap gap-2">
                     {tags.map((tag) => (
-                      <span
+                      <Link
                         key={tag}
-                        className={`rounded-full border px-3 py-1 text-sm ${getTagClasses(tag)}`}
+                        href={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}`}
+                        className={`rounded-full border px-3 py-1 text-sm transition-colors hover:opacity-80 ${getTagClasses(tag)}`}
                       >
                         {tag}
-                      </span>
+                      </Link>
                     ))}
                   </div>
                 </div>
